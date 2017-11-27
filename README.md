@@ -1,0 +1,2 @@
+# automaticRecognitionUseCoreML
+使用CoreML与ARKit结合实现自动识别选中的物体
